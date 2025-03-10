@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "target": "ES5", //compile to ES5, to ensure compatibility for old browsers
+    }
+}
